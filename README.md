@@ -2,15 +2,14 @@
 
 This project contains simple Python examples of relational operators.
 
-## Operators Used
-- >
-- <
-- ==
-- !=
-- >=
-- <=
-
+Operators Used
+>
+<
+==
+!=
+>=
+<=
  Topics
 - Basic comparisons
 - User input
-- True/False output# python-relational-operators
+- True/False output
